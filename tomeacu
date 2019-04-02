@@ -1,0 +1,151 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#fe5f12",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#41ff00",
+        "fill-opacity": 0.5,
+        "Imóvel ": "Bosque da Cidade",
+        "IPTU": "01.01.001.0152"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.155248761177056,
+              -2.4159219178595768
+            ],
+            [
+              -48.154696226119995,
+              -2.416897373789546
+            ],
+            [
+              -48.15351068973541,
+              -2.4161791810300177
+            ],
+            [
+              -48.15409004688262,
+              -2.4152573211103534
+            ],
+            [
+              -48.155248761177056,
+              -2.4159219178595768
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.15399348735809,
+          -2.416693707224696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffb400",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#13ff00",
+        "fill-opacity": 0.5,
+        "IPTU": "01.01.001.0108",
+        "Proprietário": "Joaquim Pereira",
+        "Endereço": "Rua das Begônias, 520",
+        "Distrito": "01",
+        "Setor": "01",
+        "Quadra": "001",
+        "Lote": "0108",
+        "Bairroentro": "Centro",
+        "CEP": "68682-970",
+        "Área": "68 m2",
+        "Imóvel ": "Privado"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.15399885177612,
+              -2.4167633826319
+            ],
+            [
+              -48.153955936431885,
+              -2.4169188123735403
+            ],
+            [
+              -48.15365552902222,
+              -2.416768742278458
+            ],
+            [
+              -48.153709173202515,
+              -2.41661331251963
+            ],
+            [
+              -48.15399885177612,
+              -2.4167633826319
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#dec31b",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#7aec69",
+        "fill-opacity": 0.5,
+        "Imóvel ": "Privado",
+        "IPTU": "01.01.001.0069",
+        "Proprietário": "Abuquerque Miranda",
+        "Endereço": "Rua das Begônias, 521",
+        "Distrito": "01",
+        "Setor": "01",
+        "Quadra": "001",
+        "Lote": "069",
+        "Bairroentro": "Centro",
+        "CEP": "68682-970",
+        "Área": "75 m2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.15394788980484,
+              -2.4169214921965265
+            ],
+            [
+              -48.15391302108765,
+              -2.41706352280667
+            ],
+            [
+              -48.153599202632904,
+              -2.4169268518424616
+            ],
+            [
+              -48.15365016460419,
+              -2.416766062455179
+            ],
+            [
+              -48.15394788980484,
+              -2.4169214921965265
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
