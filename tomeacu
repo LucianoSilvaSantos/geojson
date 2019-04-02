@@ -6,7 +6,7 @@
       "properties": {
         "stroke": "#fe5f12",
         "stroke-width": 2,
-        "stroke-opacity": 1,
+        "stroke-opacity": 90,
         "fill": "#41ff00",
         "fill-opacity": 0.5,
         "Imóvel ": "Bosque da Cidade",
@@ -42,7 +42,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Empreendimento": "Privado"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -56,7 +61,7 @@
       "properties": {
         "stroke": "#ffb400",
         "stroke-width": 2,
-        "stroke-opacity": 1,
+        "stroke-opacity": 60,
         "fill": "#13ff00",
         "fill-opacity": 0.5,
         "IPTU": "01.01.001.0108",
@@ -146,6 +151,72 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.31404205064318,
+          10.912773355596466
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.92809368935922,
+          -84.79457891027687
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.42481030238183,
+          80.19457860145118
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.7681805985493,
+          47.41437559649314
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.17413204210217,
+          -3.122259894993935
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.98921542667844,
+          -70.496866564722
+        ]
+      },
+      "properties": {}
     }
   ]
 }
